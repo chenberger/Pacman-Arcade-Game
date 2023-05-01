@@ -15,7 +15,7 @@ Welcome to Pacman Game!
 
 The main goal of this project is to implement the using of OOP with C++.
 
-I've implemented the OOP principles, using classes, inheritence and polymorphism.
+Me and my partner implemented the OOP principles, using classes, inheritence and polymorphism.
 
 Also, I put my effforts on implementing "Strategy" design pattern.
 
